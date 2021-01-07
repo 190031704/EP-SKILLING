@@ -1,0 +1,39 @@
+<students>
+<student>         
+   <no>190030</no>
+   <name>madhu</name>
+   <email>madhu@gmail.com</email>
+   <marks>99</marks>
+   <class>A</class>
+   </student>
+   <student>
+   <no>190031</no>
+   <name>uma</name>
+   <email>uma@gmail.com</email>
+   <marks>98</marks>
+   <class>B</class>
+   </student>
+   <student>
+   <no>190032</no>
+   <name>kk</name>
+   <email>kk@gmail.com</email>
+   <marks>100</marks>
+   <class>C</class>
+   </student>
+   <student>
+   <no>190033</no>
+   <name>harsha</name>
+   <email>harsha@gmail.com</email>
+   <marks>97</marks>
+   <class>D</class>
+   </student>
+   <student>
+   <no>190034</no>
+   <name>sai</name>
+   <email>sai@gmail.com</email>
+   <marks>95</marks>
+   <class>E</class>
+   </student>
+   </students>
+   
+     
